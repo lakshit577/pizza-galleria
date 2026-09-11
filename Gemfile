@@ -65,3 +65,4 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+gem "minitest", "~> 5.25"
