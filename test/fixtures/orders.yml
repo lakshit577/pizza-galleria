@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  state: MyString
+  created_at: 2026-09-11 12:37:37
+  items: 
+  promotion_codes: 
+  discount_code: MyString
+
+two:
+  state: MyString
+  created_at: 2026-09-11 12:37:37
+  items: 
+  promotion_codes: 
+  discount_code: MyString
