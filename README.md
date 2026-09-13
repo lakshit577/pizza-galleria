@@ -1,24 +1,19 @@
-# README
+# Pizza Galleria
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A Ruby on Rails application for viewing and managing pizza orders.
 
-Things you may want to cover:
+The application displays open orders, calculates prices based on pizza size and additional ingredients, applies promotions and discounts, and allows orders to be marked as completed.
 
-* Ruby version
+## Requirements
 
-* System dependencies
+- Ruby 3.2.0
+- Rails 7.1.6
+- PostgreSQL 14+
+- Bundler
 
-* Configuration
+## Installation
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```bash
+git clone https://github.com/lakshit577/pizza-galleria.git
+cd pizza-galleria
+bundle install
